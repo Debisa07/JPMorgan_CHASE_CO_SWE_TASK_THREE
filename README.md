@@ -1,1 +1,2 @@
-# JPMorgan_CHASE_CO_SWE_TASK_THREE
+# JPMC Task 3
+Starter repo for task 3 of JPMC's Forage program
